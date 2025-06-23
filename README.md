@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Portal
 
 A modern, responsive student portal built with React, Vite, and Tailwind CSS. This project demonstrates authentication, protected routes, user management, and a dashboard with summary cards, all styled with a clean UI and dark mode support.
@@ -76,3 +77,7 @@ A modern, responsive student portal built with React, Vite, and Tailwind CSS. Th
 ---
 
 
+=======
+# MSC-WEBD-TASK
+A modern, responsive student portal built with React, Vite, and Tailwind CSS. 
+>>>>>>> 834f0a0e2861bd1c5b44ff701041b6c6c7930a14
